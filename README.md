@@ -33,8 +33,7 @@ This tutorial outlines the creation of a single virtual machine using Microsoft 
 </p>
 <p>
 2. After you created your free subscription you can look up "Resource Group" in the search bar at the top or click the Resource Group icon. Click create, type the name of the Resource group you desire (I chose "RG-osTicket" for this project), choose your region, click Review + create at the bottom left, once the validation passed you can click create as shown in the pictures below. You now have created a Resource Group.
-<p>
-<img src="https://i.imgur.com/86YMBxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img src="https://i.imgur.com/3KyHafw.png"/>
 </p>
 <p>
 <p>
